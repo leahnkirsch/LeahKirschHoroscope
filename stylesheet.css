@@ -1,0 +1,22 @@
+/* style all elements in the <body> */
+body {
+    font-family: "Dialog";
+    vertical-align: top;
+    background-image: url(http://m.espacepourlavie.ca/blogue/sites/espacepourlavie.ca.blogue/files/andromeda_galaxy_with_h-alpha.jpg);
+    background-size: 80%;
+    color: #f5f1e8;
+    font-size: 25px;
+    text-align: center;
+}
+
+h1, h2, p {
+    text-align: right;
+    text-weight: bold;
+}
+
+
+button {
+    width: 100px;
+    height: 40px;
+    color: black;
+}
